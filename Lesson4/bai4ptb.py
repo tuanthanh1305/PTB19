@@ -1,0 +1,1 @@
+print(input("Xin chào, vui lòng nhập tên của bạn:"))

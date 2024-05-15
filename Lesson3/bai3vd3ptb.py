@@ -1,0 +1,5 @@
+# age = int(input("Nhập tuổi"))
+# print("Tuổi của bạn trong 5 năm tới là:", age + 5)
+a = input("Nhập tuổi")
+age = int(a)
+print("Tuổi của bạn trong 5 năm tới là:", age + 5)
